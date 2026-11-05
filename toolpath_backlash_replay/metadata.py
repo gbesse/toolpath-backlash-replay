@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Rejouer les inversions de mouvement avec jeu mécanique', 'en': 'Replay movement reversals under mechanical backlash', 'es': 'Reproducir inversiones de movimiento con holgura mecánica'}
